@@ -1,6 +1,5 @@
 'use client';
 import { useState, useEffect } from 'react';
-import { supabase } from '@/lib/supabase';
 import { 
   Package, ShoppingCart, ShieldAlert, Barcode, TrendingUp, 
   Users, CheckCircle2, Trash2, Plus, Search, Sun, Moon, Lock 
